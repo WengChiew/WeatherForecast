@@ -1,4 +1,4 @@
-package com.weng.weatherforecast.controller.DTO;
+package com.weng.weatherforecast.DTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
